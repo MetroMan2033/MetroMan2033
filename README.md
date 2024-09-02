@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MetroMan2033
+- 👀 I’m interested in helicopters 🚁 and videogames 🎮, as well as Formula 1 and GT3 Racing 🇳🇱.
+- 🌱 I’m currently learning Java and TypeScript.
+- 💞️ I’m looking to collaborate on anything that may give me the opportunity to learn.
+- 📫 Reach me on GitHub or Discord as Metro_Man2033.
+- ⚡ Fun fact: I love cats and I’m currently learning Russian. 🇷🇺
